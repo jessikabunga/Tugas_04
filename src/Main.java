@@ -1,4 +1,4 @@
-public class Utama {
+public class Main {
         public static void main(String[] args) {
 
             LCD lcd = new LCD();
